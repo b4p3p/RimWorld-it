@@ -96,6 +96,8 @@
   <ChangeStoryteller>Impostazioni narratore</ChangeStoryteller>
   <!-- EN: Autosave interval -->
   <AutosaveInterval>Autosalvataggio ogni</AutosaveInterval>
+  <!-- EN: Autosaves count: {0} -->
+  <AutosavesCount>Numero autosalvataggi: {0}</AutosavesCount>
   <!-- EN: The number of in game days between each auto save. -->
   <AutosaveIntervalTooltip>Il numero di giorni di gioco tra ogni salvataggio automatico.</AutosaveIntervalTooltip>
   <!-- EN: Temperature unit -->
