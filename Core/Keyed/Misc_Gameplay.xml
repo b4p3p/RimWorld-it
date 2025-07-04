@@ -282,6 +282,7 @@
   <BeautyHere>Bellezza qui</BeautyHere>
   <!-- EN: no power -->
   <NoPower>Senza energia</NoPower>
+  <NotInRoomRole>non in {0}</NotInRoomRole>
   <!-- EN: Work speed -->
   <WorkSpeedPenalty>Penalità velocità lavoro</WorkSpeedPenalty>
   <!-- EN: Disabled -->

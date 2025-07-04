@@ -116,6 +116,8 @@
   <PlanetCoverageTip>Il pianeta ha sempre lo stesso diametro ma, dal momento che è molto più grande di quanto serva per giocare, non generiamo l'intera superficie perché potrebbe richiedere troppo tempo. Questa è la percentuale di superficie che vuoi generare.</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>Fazioni</WorldFactionsTab>
+  <!-- EN: Advanced settings -->
+  <AdvancedSettings>Impostazioni avanzate</AdvancedSettings>
 
   <!-- Select world -->
   <!-- EN: Select world -->

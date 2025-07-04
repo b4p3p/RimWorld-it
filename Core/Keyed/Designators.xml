@@ -301,4 +301,6 @@
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>Tutti i tuoi {0} che hanno questa abilità non sono assegnati a {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
 
+  <DesignatorExpandPlan>Espandi piano</DesignatorExpandPlan>
+
 </LanguageData>
