@@ -1,13 +1,9 @@
 <LanguageData>
-  
-  
-  <Event_AbilityUsed.rulePack.rulesStrings>TODO</Event_AbilityUsed.rulePack.rulesStrings>
-  
-  
-  <Event_ItemUsed.rulePack.rulesStrings>TODO</Event_ItemUsed.rulePack.rulesStrings>
-  
-  
-  <Event_Stun.rulePack.rulesStrings>
-    </Event_Stun.rulePack.rulesStrings>
-  
+
+    <Event_AbilityUsed.rulePack.rulesStrings>TODO</Event_AbilityUsed.rulePack.rulesStrings>
+
+    <Event_ItemUsed.rulePack.rulesStrings>TODO</Event_ItemUsed.rulePack.rulesStrings>
+
+    <Event_Stun.rulePack.rulesStrings>TODO</Event_Stun.rulePack.rulesStrings>
+
 </LanguageData>
