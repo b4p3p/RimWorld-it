@@ -722,6 +722,10 @@
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>Non sono disponibili ulteriori informazioni.</NoMoreInfoAvailable>
 
+  <BestSkillLabel>Abilità migliore</BestSkillLabel> <!-- added -->
+  <BestSkillLetterLabel>{PAWN_nameDef}'s statistica migliore</BestSkillLetterLabel> <!-- added -->
+  <BestSkillInfoLevel>Livello abilità {0}</BestSkillInfoLevel> <!-- added -->
+
   <!-- Factions -->
   <!-- EN: Factions -->
   <Factions>Fazioni</Factions>

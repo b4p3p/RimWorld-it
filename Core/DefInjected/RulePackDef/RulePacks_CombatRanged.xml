@@ -1,30 +1,38 @@
 <LanguageData>
-  
-  
-  <Combat_ExplosionImpact.rulePack.rulesStrings>
+
+
+    <Combat_ExplosionImpact.rulePack.rulesStrings>
     </Combat_ExplosionImpact.rulePack.rulesStrings>
-  
-  
-  <Combat_RangedBase.rulePack.rulesStrings>TODO</Combat_RangedBase.rulePack.rulesStrings>
-  
-  
-  <Combat_RangedDamage.rulePack.rulesStrings>
+
+
+    <Combat_RangedBase.rulePack.rulesStrings>TODO</Combat_RangedBase.rulePack.rulesStrings>
+
+
+    <Combat_RangedDamage.rulePack.rulesStrings>
+        r_logentry: {INITIATOR_nameDef} ha colpito {RECIPIENT_nameDef} con {WEAPON_label}, causando danni a {recipient_part_label}.
+        r_logentry: {INITIATOR_nameDef} ha sparato a {RECIPIENT_nameDef} con {WEAPON_label}, distruggendo {recipient_part_destroyed_label}.
+        r_logentry: {INITIATOR_nameDef} ha inflitto un colpo critico a {RECIPIENT_nameDef} con {WEAPON_label}, danneggiando gravemente {recipient_part_label}.
+        r_logentry: {INITIATOR_nameDef} ha mancato {RECIPIENT_nameDef} con {WEAPON_label}.
+        r_logentry: {INITIATOR_nameDef} ha ferito {RECIPIENT_nameDef} con {WEAPON_label}, lasciando {RECIPIENT_pronoun} vulnerabile.
+        r_logentry: {INITIATOR_nameDef} ha sparato a {RECIPIENT_nameDef}, ma il colpo è stato deviato.
+        r_logentry: {INITIATOR_nameDef} ha usato {WEAPON_label} per colpire {RECIPIENT_nameDef}, causando danni minimi.
+        r_logentry: {INITIATOR_nameDef} ha abbattuto {RECIPIENT_nameDef} con un colpo preciso al {recipient_part_label}.
     </Combat_RangedDamage.rulePack.rulesStrings>
-  
-  
-  <Combat_RangedDeflect.rulePack.rulesStrings>
+
+
+    <Combat_RangedDeflect.rulePack.rulesStrings>
     </Combat_RangedDeflect.rulePack.rulesStrings>
-  
-  
-  <Combat_RangedFire.rulePack.rulesStrings>
+
+
+    <Combat_RangedFire.rulePack.rulesStrings>
     </Combat_RangedFire.rulePack.rulesStrings>
-  
-  
-  <Combat_RangedFire_Thrown.rulePack.rulesStrings>
+
+
+    <Combat_RangedFire_Thrown.rulePack.rulesStrings>
     </Combat_RangedFire_Thrown.rulePack.rulesStrings>
-  
-  
-  <Combat_RangedMiss.rulePack.rulesStrings>
+
+
+    <Combat_RangedMiss.rulePack.rulesStrings>
     </Combat_RangedMiss.rulePack.rulesStrings>
-  
+
 </LanguageData>

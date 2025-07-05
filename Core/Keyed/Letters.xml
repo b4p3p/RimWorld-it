@@ -431,6 +431,7 @@
   <LetterTraitDisease>{PAWN_label} ha contratto {1_gender ? il : la : lo} {1}.\n\nAssicurati di avere un letto medico e un dottore. Accertati che {PAWN_pronoun} abbia cure adeguate e trascorra quanto più tempo possibile a letto.</LetterTraitDisease>
 
   <!-- Quests -->
+  <LetterLabelQuestAvailableTitle>Missione disponibile: {0}</LetterLabelQuestAvailableTitle>
   <!-- EN: A new quest has become available. It is called '{0}'. -->
   <LetterQuestBecameAvailable>Una nuova missione è disponibile. Si chiama '{0}'.</LetterQuestBecameAvailable>
   <!-- EN: If you don't accept the quest within {0}, it will expire. -->
@@ -441,6 +442,7 @@
   <LetterQuestAutomaticallyAcceptedTitle>Missione attiva: {0}</LetterQuestAutomaticallyAcceptedTitle>
   <!-- EN: It will expire in {0}. -->
   <LetterQuestActiveNowTime>Scadrà tra {0}.</LetterQuestActiveNowTime>
+  <LetterNewQuestFromUnknown>Nuova missione disponibile.</LetterNewQuestFromUnknown>
 
   <!-- Quest drop pods arrived -->
   <!-- EN: Pods arrived -->

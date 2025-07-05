@@ -62,7 +62,13 @@
   <ManageDrugPolicies>Gestisci politiche sulle droghe</ManageDrugPolicies>
   <!-- EN: Manage food restrictions -->
   <ManageFoodRestrictions>Gestisci limitazioni sul cibo</ManageFoodRestrictions>
-  
+
+  <!--added-->
+  <ManageApparelPolicies>Gestisci il vestiario</ManageApparelPolicies>
+  <ManageDrugPolicies>Gestisci politiche sulle droghe</ManageDrugPolicies>
+  <ManageFoodPolicies>Gestisci limitazioni sul cibo</ManageFoodPolicies>
+  <ManageReadingPolicies>Gestisci limitazioni sui libri</ManageReadingPolicies>
+
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
   <Copy>Copia</Copy>
@@ -220,7 +226,8 @@
   <TechLevelTooLow>Il livello tecnologico della tua fazione è {0}, ma il livello di questo progetto è {1}. La velocità di ricerca verrà moltiplicata per {2}.</TechLevelTooLow>
   <!-- EN: Unlocked with -->
   <UnlockedWith>Sbloccato con</UnlockedWith>
-
+  <ActiveProjectPlural>Progetti attivi</ActiveProjectPlural>
+  <ActiveProject>progetto attivo</ActiveProject>
   <!-- Factions tab -->
   <!-- EN: Factions -->
   <FactionsTab>Fazioni</FactionsTab>

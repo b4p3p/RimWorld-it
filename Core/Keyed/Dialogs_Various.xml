@@ -1334,4 +1334,19 @@
   <OneDrinkPerDay>Una bevanda al giorno</OneDrinkPerDay>
   <Unrestricted>Nessuna limitazione</Unrestricted>
 
+  <!-- added in 1.6 -->
+  <!-- Policies -->
+  <AvailablePolicies>Available policies</AvailablePolicies>
+  <UnnamedPolicy>Unnamed</UnnamedPolicy>
+  <NewPolicy>New...</NewPolicy>
+  <InvalidName>Invalid policy name</InvalidName>
+  <DeletePolicyTip>Delete the selected policy.</DeletePolicyTip>
+  <DuplicatePolicyTip>Create a duplicate of the selected policy.</DuplicatePolicyTip>
+  <RenamePolicyTip>Rename this policy.</RenamePolicyTip>
+  <!--  <DefaultPolicyTip>Make this policy the default policy given to new colonists.</DefaultPolicyTip>-->
+  <DefaultPolicyTip>Rendi questa policy default per i nuovi coloni.</DefaultPolicyTip>
+  <DeletePolicyConfirm>Are you sure you want to delete the policy: {0}?</DeletePolicyConfirm>
+  <DeletePolicyConfirmButton>Delete</DeletePolicyConfirmButton>
+  <NoPolicySelected>No policy selected</NoPolicySelected>
+
 </LanguageData>

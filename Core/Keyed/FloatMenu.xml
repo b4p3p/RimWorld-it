@@ -558,4 +558,8 @@
   <PickUp>Raccogli {1_label}</PickUp>
   <CannotTradeMissingTitleAbility>Impossibile commerciare: manca il titolo necessario</CannotTradeMissingTitleAbility>
 
+  <!-- added -->
+  <!-- Prioritize extinguishing fires -->
+  <ExtinguishFiresNearby>Estingui il fuoco</ExtinguishFiresNearby>
+
 </LanguageData>
