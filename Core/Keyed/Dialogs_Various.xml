@@ -305,7 +305,7 @@
   <!-- EN: Minimum skills: -->
   <MinimumSkills>Abilità minime:</MinimumSkills>
   <!-- EN: Requires -->
-  <BillRequires>Richiede {0} {1}</BillRequires>
+  <BillRequires>Richiede</BillRequires>
   <!-- EN: nutrition -->
   <BillNutrition>alimentazione</BillNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
@@ -1348,5 +1348,12 @@
   <DeletePolicyConfirm>Are you sure you want to delete the policy: {0}?</DeletePolicyConfirm>
   <DeletePolicyConfirmButton>Delete</DeletePolicyConfirmButton>
   <NoPolicySelected>No policy selected</NoPolicySelected>
+
+  <AllReadingPolicy>Tutto</AllReadingPolicy>
+  <NoneReadingPolicy>None</NoneReadingPolicy>
+  <TextbookPolicy>Textbooks</TextbookPolicy>
+  <SchematicPolicy>Schematics</SchematicPolicy>
+  <NovelPolicy>Novels</NovelPolicy>
+  <MapPolicy>Maps</MapPolicy>
 
 </LanguageData>

@@ -19,9 +19,13 @@
   
   <Disease_FibrousMechanites.letterLabel>Malattia: Meccanite fibrosa</Disease_FibrousMechanites.letterLabel>
   
-  <Disease_FibrousMechanites.letterText>{0} dei tuoi {1} si sono ammalati di {2}.\n\nAssicurati di avere un letto medico ed un dottore. Assicurati che ricevano cure adeguate e che trascorrano quanto più tempo possibile a letto.\n\nSi sono ammalati i seguenti {1}:\n\n{3}</Disease_FibrousMechanites.letterText>
-  
-  
+  <Disease_FibrousMechanites.letterText>
+    {0} dei tuoi {1} si sono ammalati di {2}.\n\n
+    Assicurati di avere un letto medico ed un dottore.
+    Assicurati che ricevano cure adeguate e che trascorrano quanto più tempo possibile a letto.\n\n
+    Si sono ammalati i seguenti {1}:\n{3}
+  </Disease_FibrousMechanites.letterText>
+
   <Disease_Flu.label>influenza</Disease_Flu.label>
   
   <Disease_Flu.letterLabel>Malattia: Influenza</Disease_Flu.letterLabel>
